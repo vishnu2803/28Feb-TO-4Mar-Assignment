@@ -104,6 +104,9 @@ public class Feb28<G> {
                 }
             }
         }
+        
+        /*6.Write a program in java to find the sum of the even and odd digits of the number which is given as input.*/
+        
         int G, sumE = 0;
         int sum0 = 0;
         System.out.println("Enter the number of elements in array: ");
@@ -138,4 +141,4 @@ public class Feb28<G> {
 
 
 
-/*6.Write a program in java to find the sum of the even and odd digits of the number which is given as input.*/
+
