@@ -45,3 +45,23 @@ public class Calculate extends Account
         System.out.println("Amount: " + amt);
     }
 }
+
+
+
+
+
+  \*1.ANS - B. Driving electric car
+      2.Ans - B. public and protected both can be used.
+      3.Ans - a) Base Derived DeriDerived
+      4.Ans - b) Removing Stmt-1 will make the program compilable and it will print the following:
+                Base: Hello Derived.
+
+              c) Removing Stmt-2 will make the program compilable and it will print the following:
+                Base Derived.
+
+              d) Removing both Stmt-1 and Stmt-2 will make the program compilable and it will print
+                the following: Base Derived.
+      5.Ans - C. 13245
+      6.Ans - A. 2
+      7.Ans - d)int
+    */
